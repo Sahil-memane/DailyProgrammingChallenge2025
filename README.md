@@ -14,19 +14,16 @@ The main goals are:
 - 🏆 Compete for exciting prizes
 - 💼 Get better prepared for technical interviews
 
----
-
 ## 📂 Folder Structure
+```
 DailyProgrammingChallenge2025/
-│
 ├── Day01/
-│ └── sort012.cpp
+│ └── Day1.cpp
 ├── Day02/
-│ └── <problem>.cpp
+│ └── <file>.cpp
 └── README.md
-
----
-
+...
+```
 ## 🔗 Challenge Info
 - **Free Entry**
 - **Prize Pool:** ₹21,000
